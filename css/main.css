@@ -49,67 +49,8 @@ body {
       border-color: transparent !important;
   }
   
-  /* HOME EDITS */
-  
-  .home{
-      font-weight: 600;
-      color: #515C65;
-  }
-  
-  .header{
-      padding: 70px 0px 30px 0px;
-      background: #D8E7F4 !important;
-      text-align: center;
-  }
-  
-  .explain{
-      padding: 30px 0px 30px 0px;
-      background: #D8E7F4 !important;
-      text-align: center !important;
-  }
-  
-  /* JUMBOTRON EDITS */
-  
-  .jumbotron{
-      margin: 0px !important;
-      padding: 0px !important;
-  }
-  
-  .jumbotron h1{
-      font-size: 35px !important;
-      font-weight: 600;
-      text-align: center;
-      padding: 15px 20px 40px 20px;
-  
-  }
-  
-  .jumbotron h2{
-      font-variant-caps: all-petite-caps;
-      padding: 10px 20px 10px 20px;
-      font-weight: 600;
-  }
-  
-  .jumbotron h3{
-      font-size: 20px;
-      padding: 30px 20px 30px 20px;
-  }
-  
-  .jumbotron h4{
-      font-size: 50px !important;
-      padding: 20px 0px 20px 0px;
-  }
-  
-  .jumbotron h5{
-      font-size: 15px !important;
-      font-style: oblique;
-  }
-  
   /* aliceblue, #ACD3E9 #C2DAEE #CDE0F1 #D8E7F4 #E8F1F8 */
   
-  .white{
-      padding: 30px 0px 30px 0px;
-      background:white !important;
-  }
   /* EMAIL EDITS */
   
   .link{
@@ -132,23 +73,20 @@ body {
   ul{
       list-style: none;
   }
-  .rates p{
-      font-size: 8pt !important;
-  }
   
-  /* BOTTOM PARTITION */
+  /* FOOTER PARTITION */
   
-  .bottom{
+  footer{
       margin-top: 30px;
       margin-bottom: 50px;
       text-align: center;
   }
   
-  .bottom h2{
+  footer h2{
       font-size: 150% !important;
   }
   
-  .bottom h3{
+  footer h3{
       font-size: 18px !important;
       padding-bottom: 20px !important;
       border-bottom: 1px solid #333 !important;
