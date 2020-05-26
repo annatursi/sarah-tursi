@@ -17,11 +17,6 @@ body {
   
   /* NAVBAR EDITS */
   
-  .dropdown-toggle .dropdown-menu {
-    position: static;
-    display: block;
-  }
-  
   .theme-showcase > p > .btn {
     margin: 5px 0;
   }
@@ -152,7 +147,7 @@ body {
 }
 
 .section-colored {
-    background-color: #e1e1e1;
+    background-color: aliceblue;
     /* change this to change the background color of a colored section */
 }
 
