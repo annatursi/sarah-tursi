@@ -14,13 +14,9 @@ app.config(['$routeProvider', function ($routeProvider) {
     .when("/", {templateUrl: "components/home.html", controller: "PageCtrl"})
     // Pages
     .when("/about", {templateUrl: "components/about.html", controller: "PageCtrl"})
-    .when("/faq", {templateUrl: "components/faq.html", controller: "PageCtrl"})
-    .when("/pricing", {templateUrl: "components/pricing.html", controller: "PageCtrl"})
+    .when("/rates", {templateUrl: "components/rates.html", controller: "PageCtrl"})
     .when("/services", {templateUrl: "components/services.html", controller: "PageCtrl"})
     .when("/contact", {templateUrl: "components/contact.html", controller: "PageCtrl"})
-    // Blog
-    .when("/blog", {templateUrl: "components/blog.html", controller: "BlogCtrl"})
-    .when("/blog/post", {templateUrl: "components/blog_item.html", controller: "BlogCtrl"})
     // else 404
     .otherwise("/404", {templateUrl: "components/404.html", controller: "PageCtrl"});
 }]);
