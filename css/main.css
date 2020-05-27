@@ -111,11 +111,11 @@ body {
 
   /* ABOUT PAGE EDITS */
 
-  .facebook a:hover {
+  .facebook:hover {
     color: #3b5998;
   }
 
-  .linkedin a:hover {
+  .linkedin:hover {
     color: #007fb1;
   }
   
