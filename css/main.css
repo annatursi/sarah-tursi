@@ -108,6 +108,16 @@ body {
   }
   
   /* aliceblue, #ACD3E9 #C2DAEE #CDE0F1 #D8E7F4 #E8F1F8 */
+
+  /* ABOUT PAGE EDITS */
+
+  .facebook a:hover {
+    color: #3b5998;
+  }
+
+  .linkedin a:hover {
+    color: #007fb1;
+  }
   
   /* EMAIL EDITS */
   
@@ -187,14 +197,6 @@ body {
 .tooltip-social a {
     text-decoration: none;
     color: inherit;
-}
-
-.facebook-link a:hover {
-    color: #3b5998;
-}
-
-.linkedin-link a:hover {
-    color: #007fb1;
 }
 
 .twitter-link a:hover {
