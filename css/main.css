@@ -1,11 +1,3 @@
-/* 
-Custom CSS for...
-'Modern Business' HTML Theme by Start Bootstrap
-
-All Start Bootstrap themes are licensed under Apache 2.0. 
-For more info and more free Bootstrap 3 HTML themes, visit http://startbootstrap.com!
-*/
-
 /* Global Styles */
 
 body {
@@ -18,111 +10,6 @@ body {
 .jumbotron {
     background-color: aliceblue !important;
 }
-  
-  /* NAVBAR EDITS */
-
-  .navbar {
-      font-size: larger;
-  }
-  
-  .theme-showcase > p > .btn {
-    margin: 5px 0;
-  }
-  
-  .theme-showcase .navbar .container {
-    width: auto;
-  }
-  
-  .navbar-brand {
-      color: #303030 !important;
-  
-  }
-  
-  .activetab{
-      background-color: inherit;
-      color: #202020 !important; 
-      font-weight: 600;
-  }
-  
-  .navbar .activebar{
-      color: #202020 !important;   
-  }
-  
-  button{
-      border-color: transparent !important;
-  }
-  
-  /* aliceblue, #ACD3E9 #C2DAEE #CDE0F1 #D8E7F4 #E8F1F8 */
-  
-  /* EMAIL EDITS */
-  
-  .link{
-      color: inherit;
-  }
-  
-  a.link:hover {
-      color: black;
-      font-weight: 600;
-      text-decoration: none;
-  }
-  a.link:visited {
-      color: black;
-      font-weight: 400;
-      text-decoration: none;
-  }
-  
-  /* RATES EDITS */
-  
-  ul{
-      list-style: none;
-  }
-  
-  /* FOOTER PARTITION */
-  
-  footer{
-      background-color: lightgray;
-      margin-top: 30px;
-      margin-bottom: 50px;
-      text-align: center;
-  }
-  
-  footer h2{
-      font-size: 150% !important;
-  }
-  
-  footer h3{
-      font-size: 18px !important;
-      padding-bottom: 20px !important;
-      font-weight: 400 !important;
-  }
-  
-  .glyphicon{
-      padding: 10px;
-      color: #333;
-  }
-  
-  /* OTHER EDITS */
-  
-  hr{
-      border-color: #666 !important;
-  }
-  
-  p{
-      font-size: 18px !important;
-  }
-  .center{
-      text-align: center !important;
-  }
-  svg{
-    height: 20%;
-    width: 20%;
-    padding: 2%;
-  }
-  .icons{
-    width: 100%;
-    display: inline-block;
-  }
-  
 
 html, body {
     height: 100%;
@@ -186,6 +73,111 @@ body {
     background-position: center;
     background-size: cover;
 }
+  
+  /* NAVBAR EDITS */
+
+  .navbar {
+      font-size: larger;
+  }
+  
+  .theme-showcase > p > .btn {
+    margin: 5px 0;
+  }
+  
+  .theme-showcase .navbar .container {
+    width: auto;
+  }
+  
+  .navbar-brand {
+    color: #303030 !important;
+    font-weight: bold;
+  }
+  
+  .activetab{
+      background-color: inherit;
+      color: #202020 !important; 
+      font-weight: 600;
+  }
+  
+  .navbar .activebar{
+      color: #202020 !important;   
+  }
+  
+  button{
+      border-color: transparent !important;
+  }
+  
+  /* aliceblue, #ACD3E9 #C2DAEE #CDE0F1 #D8E7F4 #E8F1F8 */
+  
+  /* EMAIL EDITS */
+  
+  .link{
+      color: inherit;
+  }
+  
+  a.link:hover {
+      color: black;
+      font-weight: 600;
+      text-decoration: none;
+  }
+  a.link:visited {
+      color: black;
+      font-weight: 400;
+      text-decoration: none;
+  }
+  
+  /* RATES EDITS */
+  
+  ul{
+      list-style: none;
+  }
+  
+  /* FOOTER PARTITION */
+  
+  footer{
+      background-color: lightgray;
+      padding-top: 30px;
+      padding-bottom: 50px;
+      text-align: center;
+  }
+  
+  footer h2{
+      font-size: 150% !important;
+  }
+  
+  footer h3{
+      font-size: 18px !important;
+      padding-bottom: 20px !important;
+      font-weight: 400 !important;
+  }
+  
+  .glyphicon{
+      padding: 10px;
+      color: #333;
+  }
+  
+  /* OTHER EDITS */
+  
+  hr{
+      border-color: #666 !important;
+  }
+  
+  p{
+      font-size: 18px !important;
+  }
+  .center{
+      text-align: center !important;
+  }
+  svg{
+    height: 20%;
+    width: 20%;
+    padding: 2%;
+  }
+  .icons{
+    width: 100%;
+    display: inline-block;
+  }
+  
 
 /* Social Icons Styles */
 .list-social-icons {
