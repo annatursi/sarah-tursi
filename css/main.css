@@ -11,6 +11,10 @@ body {
     background-color: aliceblue !important;
 }
 
+.page-header {
+    background-color: #D8E7F4;
+}
+
 html, body {
     height: 100%;
 }
