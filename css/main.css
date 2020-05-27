@@ -16,6 +16,10 @@ body {
   }
   
   /* NAVBAR EDITS */
+
+  .navbar {
+      font-size: larger;
+  }
   
   .theme-showcase > p > .btn {
     margin: 5px 0;
